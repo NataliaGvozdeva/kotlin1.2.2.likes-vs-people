@@ -1,0 +1,5 @@
+#To ignore some Gradle and project elements
+build
+.gradle
+.idea
+*.iml
